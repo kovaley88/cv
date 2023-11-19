@@ -2,7 +2,7 @@
 # Kovaley Alexey
 ## Junior Frontend Developer
 
-====
+---
 
 
 !⁠[Alt foto]​(https://kartinki.pics/uploads/posts/2022-03/1648048168_2-kartinkin-net-p-kartinki-litsa-cheloveka-2.jpg)
@@ -13,18 +13,30 @@ Contact information:
         - Telegram: @avKovaley
 
 
-====
+===
 
 
 ## Briefly About Myself:
 
 
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?
+    *Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?*
+
+
+    _Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?_
+    **Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?**
 
 
     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?
 
+    ***
 
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?
+```
+function showAlert() {
+  alert("Kovaley Alexey");
+}
 
+var startButton = document.getElementById("startButton");
+startButton.addEventListener("click", showAlert);
+
+showAlert()
+```
