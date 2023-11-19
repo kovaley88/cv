@@ -19,14 +19,18 @@ Contact information:
 ## Briefly About Myself:
 
 
-    **_Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?_**
+    **Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit 
+    maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?**
 
 
-    _Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?_
-    **Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?**
+    _Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit 
+    maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?_
+    **Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit 
+    maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?**
 
 
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?
+    *Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit 
+    maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?*
 
     ***
 
@@ -46,8 +50,13 @@ ____
 2. Lorem ipsum
 3. Lorem ipsum, dolor
 
-====
+____
 
-## > Цитата
+
+----
+
+
+> # Цитата
 > Сложнее всего начать действовать, все остальное зависит только от упорства.
-> *— Амелия Эрхарт
+> 
+> *— Амелия Эрхарт*
