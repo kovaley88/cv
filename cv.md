@@ -32,7 +32,7 @@ Contact information:
     *Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate deserunt blanditiis ullam quasi reprehenderit 
     maiores deleniti, nam amet obcaecati illum quam dignissimos officiis corporis, non repellat similique est. Fugiat, quo?*
 
-    ***
+    
 
 ```
 function showAlert() {
@@ -50,8 +50,6 @@ ____
 2. Lorem ipsum
 3. Lorem ipsum, dolor
 
-____
-
 
 ----
 
@@ -64,4 +62,4 @@ ____
 
 ----
 
-!⁠[diagram]​(https://static-cse.canva.com/blob/861911/ar-8241-vidy-diagramm.jpg "my img")
+!⁠[diagram]​(https://static-cse.canva.com/blob/861911/ar-8241-vidy-diagramm.jpg )
