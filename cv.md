@@ -62,4 +62,11 @@ ____
 
 ----
 
-!⁠[diagram]​(https://static-cse.canva.com/blob/861911/ar-8241-vidy-diagramm.jpg )
+!⁠[diagram]​(https://media.contented.ru/wp-content/uploads/2022/12/7-1024x574.jpg)
+
+
+!⁠[diagram]​(D:\7-1024x574.jpg)
+
+
+
+
